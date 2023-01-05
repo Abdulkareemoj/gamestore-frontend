@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.medusajs.com">
     <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
   </a>
@@ -144,4 +144,7 @@ After this you will need to set up Algolia with your Medusa server, and then you
 
 - [Website](https://nextjs.org/)
 - [GitHub](https://github.com/vercel/next.js)
-- [Documentation](https://nextjs.org/docs)
+- [Documentation](https://nextjs.org/docs) -->
+
+
+Gamestore Frontend, that's all for now
